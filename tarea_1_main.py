@@ -1,6 +1,12 @@
-""" Primera tarea de metodos numericos 2019-1
-Hecha por Jose Hernan Ortiz, Jose blablblbla
 """
+Primera tarea de metodos numericos 2019-1
+Hecha por Sofía Obando, José Hernán Ortiz, Jose Manuel Rendón
+Status:
+    *Falta revisar los valores entregados para área y volumen
+    *Falta buscar forma de graficar mejor el valle
+    *Faltan hacer ejemplos y testeos de las funciones, y organizar los docstrings
+"""
+
 
 import tarea_1_funciones as fcn
 import numpy as np
